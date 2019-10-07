@@ -1,5 +1,6 @@
 Minimum example to show what seems to be a parser conflict when using
-typescript with `.vue` files.
+typescript with `.vue` files as a demonstration for issue
+[970](https://github.com/vuejs/eslint-plugin-vue/issues/970).
 
 After cloning the repo, do:
 
