@@ -1,3 +1,7 @@
+**Update:** Release 2.5.0 of @typescript-eslint/eslint-plugin and
+@typescript-eslint/parser has fixed this issue. Leaving this repo here for
+posterity.
+
 Minimum example to show what seems to be a parser conflict when using
 typescript with `.vue` files as a demonstration for issue
 [970](https://github.com/vuejs/eslint-plugin-vue/issues/970).
